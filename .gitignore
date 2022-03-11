@@ -1,3 +1,3 @@
-data/*.jpg
-!data/testdate/*.jpg
+*.jpg
+!data/testdata/*.jpg
 *.tar.gz
