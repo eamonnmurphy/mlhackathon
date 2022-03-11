@@ -1,3 +1,6 @@
 *.jpg
 !data/testdata/*.jpg
 *.tar.gz
+
+.DS_Store
+data/.DS_Store
